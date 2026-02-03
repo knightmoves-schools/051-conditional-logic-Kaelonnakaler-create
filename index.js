@@ -1,11 +1,12 @@
  function validateAge(oldEnough){
-  // add your code here
+  if (oldEnough === true) {
+  return "old Enough"
 }
-logic function validateAge(oldEnough){ = false; 
-return "old Enough" = true;
-                                  };
+ }
 
-document.getElementById("result").innerHTML = 'ran it';
+
+
+
 
 
 
